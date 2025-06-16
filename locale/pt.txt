@@ -1,11 +1,19 @@
 #: locale=pt
 
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_6C38E6BE_7A21_4559_41CC_B2BE4F2FC77E.text = Rua do Canavial 17, São Paulo
+
 ## Media
 
 ### Audio
 audiores_69CB0797_7A62_C357_41CA_4788386CFE0B.mp3Url = media/audio_6F414F76_7A61_43E9_41C6_E4F873A4464F_pt.mp3
 
 ### Audio Subtitles
+
+### Image
+imlevel_6CDB26DE_7A27_C2D9_419A_DAF3F0B029A7.url = media/panorama_76A87590_7A21_4729_41D5_67F3C2431C43_HS_nvhcb1ov_pt.png
 
 ### Title
 panorama_7128949E_7A21_4559_41BC_1E50469C07DA.label = New Panorama1
