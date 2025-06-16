@@ -1,0 +1,30 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_69CB0797_7A62_C357_41CA_4788386CFE0B.mp3Url = media/audio_6F414F76_7A61_43E9_41C6_E4F873A4464F_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_7128949E_7A21_4559_41BC_1E50469C07DA.label = New Panorama1
+panorama_71272EF8_7A21_42D9_41CC_BD281D2EF3E5.label = New Panorama2
+panorama_7124F410_7A22_C529_41D2_940393EC7E7A.label = New Panorama4
+panorama_71253E38_7A22_C559_41C0_A7B006BA9A22.label = New Panorama5
+panorama_7124D8A2_7A22_CD69_41C5_7B383F798930.label = New Panorama6
+panorama_76A87590_7A21_4729_41D5_67F3C2431C43.label = drone
+
+## Skin
+
+### Image
+Image_699AC81A_7A21_4D59_41D7_F57DF720BBD2_mobile.url = skin/Image_699AC81A_7A21_4D59_41D7_F57DF720BBD2_mobile_pt.png
+Image_699AC81A_7A21_4D59_41D7_F57DF720BBD2.url = skin/Image_699AC81A_7A21_4D59_41D7_F57DF720BBD2_pt.png
+
+## Tour
+
+### Description
+tour.description = R. do Canavial, 17 - Vila Nova Cachoeirinha, São Paulo
+
+### Title
+tour.name = Dlua modas - Tour Virtual 360°
